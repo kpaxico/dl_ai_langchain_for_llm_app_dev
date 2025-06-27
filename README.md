@@ -1,6 +1,6 @@
 # Langchain for LLM Application Development
 
-
+This is a Python application that demonstrates how to build LLM-powered applications using LangChain. It showcases various LangChain features and integrations with OpenAI's models to create intelligent, conversational AI applications.
 
 ## Setup Instructions
 
