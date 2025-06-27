@@ -1,0 +1,20 @@
+# For making direct API calls to OpenAI's models
+openai>=1.0.0
+
+# For loading environment variables from a .env file (used to securely store the OpenAI API key)
+python-dotenv>=1.0.0
+
+# The main LangChain library for working with language models, prompts, and output parsers
+langchain>=0.1.0
+
+# LangChain community integrations (required for some legacy imports)
+langchain-community>=0.0.10
+
+# LangChain OpenAI integrations (for ChatOpenAI and other OpenAI-specific components)
+langchain-openai>=0.0.5
+
+# For running Jupyter notebooks
+jupyter>=1.0.0
+
+# For Python kernel support in Jupyter notebooks
+ipykernel>=6.0.0
